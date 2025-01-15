@@ -10,7 +10,7 @@
     "@fortawesome/free-regular-svg-icons": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "@fortawesome/react-fontawesome": "fortawesome/react-fontawesome",
-    "@mantine/core": "7.13.4",
+    "@mantine/core": "7.16.0",
     "@mantine/hooks": "^7.5.1",
     "@mantine/modals": "^7.13.4",
     "@mantine/notifications": "^7.13.2",
