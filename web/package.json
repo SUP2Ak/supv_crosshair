@@ -13,7 +13,7 @@
     "@mantine/core": "7.13.4",
     "@mantine/hooks": "^7.5.1",
     "@mantine/modals": "^7.13.4",
-    "@mantine/notifications": "^7.13.2",
+    "@mantine/notifications": "^7.16.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.0.1",
     "@testing-library/user-event": "^14.5.2",
